@@ -36,5 +36,4 @@ Este painel de Business Intelligence foi desenvolvido para **monitorar e analisa
 
 ## Desenvolvido por
 
-**Danilo**  
-Contato: *(adicione aqui seu LinkedIn, e-mail ou GitHub se desejar)*
+**Danilo**
